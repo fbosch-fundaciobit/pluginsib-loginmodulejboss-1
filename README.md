@@ -1,2 +1,1 @@
 # pluginsib-loginmodulejboss
-pluginsib-loginmodulejboss
