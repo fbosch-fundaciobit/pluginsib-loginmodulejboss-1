@@ -9,8 +9,8 @@ import java.util.List;
 
 import javax.security.auth.login.LoginException;
 
-import org.fundaciobit.plugins.utils.ldap.LDAPConstants;
-import org.fundaciobit.plugins.utils.ldap.LDAPUserManager;
+import org.fundaciobit.pluginsib.utils.ldap.LDAPConstants;
+import org.fundaciobit.pluginsib.utils.ldap.LDAPUserManager;
 import org.jboss.security.SimpleGroup;
 import org.jboss.security.SimplePrincipal;
 
